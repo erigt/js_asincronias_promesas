@@ -53,7 +53,10 @@ Se dice que es buena práctica aplicar la programación asíncrona debido a que 
 
 # Ex JS - Asincronía & Promesas
 1.- Usa este JSON para imprimir en consola del navegador la lista de títulos de los ‘Todos’.
+![Asincronía y Promesas 1](https://github.com/erigt/js_asincronias_promesas/assets/146768635/5be465d8-836d-4495-acfa-9ddde14e75e6)
+
 
 2.- Usa el mismo JSON para imprimir en el documento del navegador una tabla con todos los
 elementos ‘Todos’ y sus propiedades.
+![Asincronía y Promesas 2](https://github.com/erigt/js_asincronias_promesas/assets/146768635/a27d9309-6cd6-4e2b-83eb-5715f8089434)
 
