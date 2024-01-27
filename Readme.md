@@ -50,3 +50,10 @@ Se dice que es buena práctica aplicar la programación asíncrona debido a que 
 - Mejor control de los procesos, si no ejecutamos await por ejemplo, puede que nuestra aplicación quiera continuar en el mismo thread sin que haya terminado de traer la información de la base de datos, con esto se generan inconsistencias, también podría generar colisiones en las llamadas a la base de datos dejándola no disponible para algunos usuarios mientras que otros sí obtienen lo esperado.
 
 - Mayor disponibilidad del sistema, ya que permite ejecutar múltiples acciones al mismo tiempo.
+
+# Ex JS - Asincronía & Promesas
+1.- Usa este JSON para imprimir en consola del navegador la lista de títulos de los ‘Todos’.
+
+2.- Usa el mismo JSON para imprimir en el documento del navegador una tabla con todos los
+elementos ‘Todos’ y sus propiedades.
+
